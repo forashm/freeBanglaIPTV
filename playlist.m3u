@@ -3,3 +3,11 @@
 https://cd198.anystream.uk:8082/hls/tvchsuk03/index.m3u8
 #EXTINF:-1 tvg-id="ATNBangla.uk@SD" tvg-logo="https://i.postimg.cc/7LdzM83w/atnbangla.png" group-title="Bangla",ATN Bangla UK (576p)
 https://cd198.anystream.uk:8082/hls/atbla85tv/index.m3u8
+#EXTINF:-1 tvg-id="iONTV.uk@SD" tvg-logo="https://axiommedia.co/wp-content/uploads/2020/12/Ion-TV.png" group-title="Bangla",iON TV
+https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/iontvuk.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ChannelI.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1280px-Channel-i.svg.png" group-title="Bangla",Channel i
+https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channeli-8-org.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="NTVEurope.uk@SD" tvg-logo="https://axiommedia.co/wp-content/uploads/2020/12/Ion-TV.png" group-title="Bangla",nTV Europe
+https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="TVOne.uk@SD" tvg-logo="https://www.tvoneuk.tv/wp-content/uploads/2021/06/TVONE-LOGO-Colour.png" group-title="Bangla",TV ONE UK (576p)
+https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/tvoneuksni.stream/tracks-v1a1/mono.m3u8
